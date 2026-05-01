@@ -59,7 +59,9 @@ The dashboard provides interactive insights to support data-driven business deci
 ---
 
 ## 📷 Dashboard Preview
-_Add your dashboard screenshots here_
+<p align="center">
+  <img src="https://github.com/GunelXelilli/Vendor-Analysis/blob/main/powerbidash.png" width="800"/>
+</p>
 
 ---
 
